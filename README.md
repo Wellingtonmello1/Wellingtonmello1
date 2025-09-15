@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wellington Melo</h1>
 <h3 align="center">Sou um profissional em Analista de dados e também em frontend</h3>
 
-- 🔭 I’m currently working in **Shopee como data annotation**
+- 🔭 I’m currently working in **Shopee**
 
-- 🌱 I’m currently learning **Oracle DataBase, pyhton, Modelagem de dados.**
+- 🌱 I’m currently learning **Data Analytics, Data Engineer.**
 
-- 👯 I’m looking to collaborate on **Analista de Dados**
+- 👯 I’m looking to collaborate on **Data Analystics**
 
-- 🤝 I’m looking for help with **Novo emprego em Área de dados**
+- 🤝 I’m looking for help with **New Work in the area**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wellingtonmello1/Wellingtonmello1](https://github.com/Wellingtonmello1/Wellingtonmello1)
+- 👨‍💻 All of my projects are available at (https://github.com/Wellingtonmello1/Wellingtonmello1)
 
 - 📫 How to reach me **wemello@outlook.com**
 
